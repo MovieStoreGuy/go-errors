@@ -1,4 +1,4 @@
-module github.com/MovieStoreGuy/errors
+module github.com/MovieStoreGuy/go-errors
 
 go 1.16
 
